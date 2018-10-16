@@ -1,1 +1,1 @@
-# si3is1-domaci
+# ETF Informacioni sistemi 1 - faculty project
